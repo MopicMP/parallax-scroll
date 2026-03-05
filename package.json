@@ -1,0 +1,25 @@
+{
+  "name": "parallax-scroll",
+  "version": "1.0.0",
+  "description": "Simple parallax scrolling effect",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "parallax",
+    "scroll",
+    "tool",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/parallax-scroll.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
